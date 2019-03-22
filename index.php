@@ -46,7 +46,11 @@ if(isset($_POST["email"])){
 </head>
 <body>
 <h1>Page index  to see it in a GIT </h1>
+<<<<<<< HEAD
     <h2>HELLLLLLOOOOO</h2>
+=======
+    <p> le git dont work :) </p>
+>>>>>>> 3e587544e8d993e96397b576ed057ae00b35dddf
 
     <form action="index.php" method="post">
 
