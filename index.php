@@ -46,7 +46,7 @@ if(isset($_POST["email"])){
 </head>
 <body>
 <h1>Page index  to see it in a GIT </h1>
-
+    <h2>HELLLLLLOOOOO</h2>
 
     <form action="index.php" method="post">
 
